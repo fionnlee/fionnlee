@@ -1,4 +1,5 @@
-
+![](https://komarev.com/ghpvc/?username=fionnlee)
+<br>
 <b> My own Discord banner API </b>
 <br>
 <a href="https://discord.com/users/859784549063196722">
