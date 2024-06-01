@@ -1,6 +1,5 @@
 <div id="SealedSaucer" align="center">
   <h3> Hi there, I'm Fionn :innocent:  </h3>
-  <br>
   <h4>Own Discord Banner API</h4>
   <br>
   <center>:point_down:</center>
