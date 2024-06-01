@@ -1,8 +1,8 @@
 <div id="SealedSaucer" align="center">
   <h3> Hi there, I'm Fionn :innocent:  </h3>
   <br>
-  <a href="https://discord.com/users/859784549063196722"><img height="80px" src="http://139.99.43.34/theam-2/859784549063196722.png" /></a>
-  <a href="https://discord.com/users/1094092419588427878"><img height="80px" src="http://139.99.43.34/theam-1/1094092419588427878.png" /></a>
+  <a href="https://discord.com/users/859784549063196722"><img height="80px" src="http://139.99.43.34:90/theam-2/859784549063196722.png" /></a>
+  <a href="https://discord.com/users/1094092419588427878"><img height="80px" src="http://139.99.43.34:90/theam-1/1094092419588427878.png" /></a>
   <br><br>
   <a href="https://fionn.github.io"><img src="https://img.shields.io/website?label=fionn.github.io&style=for-the-badge&url=https%3A%2F%2Fphantom.is-a.dev"></a>
   <a href="https://fionn.github.io"><img src="https://img.shields.io/badge/fionn.github.io-5e40e4?style=for-the-badge"></a>
