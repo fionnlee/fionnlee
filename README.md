@@ -1,6 +1,10 @@
 <div id="SealedSaucer" align="center">
   <h3> Hi there, I'm Fionn :innocent:  </h3>
   <br>
+  <h4>Own Discord Banner API</h4>
+  <br>
+  <center>:point_down:</center>
+  <br>
   <a href="https://discord.com/users/859784549063196722"><img height="80px" src="http://139.99.43.34:90/theam-2/859784549063196722.png" /></a>
   <a href="https://discord.com/users/1094092419588427878"><img height="80px" src="http://139.99.43.34:90/theam-1/1094092419588427878.png" /></a>
   <br><br>
