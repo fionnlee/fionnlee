@@ -1,5 +1,5 @@
 <div id="SealedSaucer" align="center">
-   <center><h3> Hi there, I'm Fionn :innocent:  </h3>
+   <center><h3> Hi there, I'm Fionn :innocent:</h3>
   <h4>Own Discord Banner API Bot</h4></center>
   <br>
   <a href="https://discord.com/users/859784549063196722"><img height="80px" src="http://139.99.43.34:90/theam-2/859784549063196722.png" /></a>
